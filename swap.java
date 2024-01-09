@@ -1,3 +1,5 @@
+//Using Third Variable
+
 class Swap
 {
     public static void main(String args[])
